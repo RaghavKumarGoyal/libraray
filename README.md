@@ -1,0 +1,1 @@
+This code is about a library database management system that takes input for a number of books and displays them. You can search by genre and name. Additionally, I have added features to ensure that text cannot be entered in the price field and that each book's ISBN will be unique.
