@@ -12,17 +12,17 @@ book_count keeps track of the number of books added.
 Helper Functions:
 
 isbn_unique: Checks if the given ISBN is unique.
-add_genre: Adds a genre to a book if the maximum genre limit (2) is not reached.
+add_genre:                  Adds a genre to a book if the maximum genre limit (2) is not reached.
 
 
 Main Functions:
 
-new_book: Adds new books to the library, ensuring unique ISBNs and validating inputs.
-display_books: Displays all books in the library.
-search_genres: Searches and lists books based on specified genres.
-list_books_by_author: Lists all books by a given author.
-list_book_count: Displays the total number of books in the library.
-free_library: Placeholder function for future implementation of freeing memory if needed.
+new_book:                  Adds new books to the library, ensuring unique ISBNs and validating inputs.
+display_books:             Displays all books in the library.
+search_genres:             Searches and lists books based on specified genres.
+list_books_by_author:      Lists all books by a given author.
+list_book_count:           Displays the total number of books in the library.
+free_library:              Placeholder function for future implementation of freeing memory if needed.
 
 
 Main Program Loop:
